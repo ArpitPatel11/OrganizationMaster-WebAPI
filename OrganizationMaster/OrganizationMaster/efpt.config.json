@@ -1,0 +1,179 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "FirstDBContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "OrganizationMaster",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tblbranchmaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblcity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblcountry]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbldepartmentmaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbldesignationmaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblorganizationmaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblstate]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[crudtblcountry]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Branch_ById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Branch_Delete]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Branch_Insert]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Branch_Update]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_City_ById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_City_Delete]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_City_Insert]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_City_Update]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Country_ById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Country_Delete]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Country_Insert]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Country_Update]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Department_ById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Department_Delete]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Department_Insert]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Department_Update]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Designation_ById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Designation_Delete]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Designation_Insert]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Designation_Update]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Oraganization_Insert]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Organization_ById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Organization_Delete]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Organization_Update]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_State_ById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_State_Delete]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_State_Insert]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_State_Update]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "arpit-atoz\\sqlexpress.FirstDB.dbo",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
